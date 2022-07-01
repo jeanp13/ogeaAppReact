@@ -1,0 +1,7 @@
+{
+  "name": "ogeaApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
